@@ -159,6 +159,9 @@ Apache-2.0
 @firebase/messaging
 Apache-2.0
 
+@firebase/messaging-compat
+Apache-2.0
+
 @firebase/remote-config
 Apache-2.0
 
@@ -230,6 +233,8 @@ firebase/compat/app
 firebase/compat/auth
 
 firebase/compat/firestore
+
+firebase/compat/messaging
 
 firebase/messaging
 
